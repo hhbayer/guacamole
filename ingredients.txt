@@ -2,8 +2,4 @@ avocados
 salt
 limes
 tomatoes
-<<<<<<< HEAD
-onion
-=======
 jalapeño
->>>>>>> 8e6aafe8ebb7ec763a0bef6624b12eef3ef2e150
