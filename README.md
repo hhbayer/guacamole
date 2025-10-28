@@ -1,5 +1,5 @@
 # guacamole
-My favorit guacamole recipe.
+My favorite guacamole recipe.
 
 files:
 - ingredients.txt lists the required ingredients
